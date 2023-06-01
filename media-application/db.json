@@ -1,6 +1,10 @@
 {
-    "users":[{"id": 1, "name": "Mayra"} ],
-    "albums":[],
-    "photos": []
+  "users": [
+    {
+      "id": 1,
+      "name": "Mayra"
+    }
+  ],
+  "albums": [],
+  "photos": []
 }
-
