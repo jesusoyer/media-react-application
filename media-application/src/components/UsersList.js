@@ -36,13 +36,7 @@ else if (loadingUsersError){
     content = data.map((user) => {
 return <UsersListItem key={user.id} user={user} />
 
-        // return(
-        //     <div key={user.id} className="mb-2 border rounded">
-        //         <div className='flex p-2 justify-between items-center cursor-point'>
-        //             {user.name}
-        //         </div>
-        //     </div>
-        // )
+       
     })
 }
 

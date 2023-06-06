@@ -1,10 +1,75 @@
 {
   "users": [
     {
-      "id": 1,
-      "name": "Mayra"
+      "name": "Jeffery Hahn",
+      "id": 2
+    },
+    {
+      "name": "Dexter Crona DDS",
+      "id": 3
     }
   ],
-  "albums": [],
+  "albums": [
+    {
+      "id": 10,
+      "title": "Hiking Trip",
+      "userId": 2
+    },
+    {
+      "userId": 2,
+      "title": "Awesome Soft Cheese",
+      "id": 11
+    },
+    {
+      "userId": 2,
+      "title": "Intelligent Soft Pizza",
+      "id": 12
+    },
+    {
+      "userId": 2,
+      "title": "Modern Wooden Sausages",
+      "id": 13
+    },
+    {
+      "userId": 2,
+      "title": "Intelligent Rubber Pizza",
+      "id": 14
+    },
+    {
+      "userId": 2,
+      "title": "Licensed Cotton Chair",
+      "id": 15
+    },
+    {
+      "userId": 3,
+      "title": "Oriental Plastic Salad",
+      "id": 16
+    },
+    {
+      "userId": 3,
+      "title": "Small Fresh Fish",
+      "id": 17
+    },
+    {
+      "userId": 2,
+      "title": "Practical Bronze Tuna",
+      "id": 18
+    },
+    {
+      "userId": 2,
+      "title": "Sleek Soft Bacon",
+      "id": 19
+    },
+    {
+      "userId": 3,
+      "title": "Ergonomic Frozen Soap",
+      "id": 20
+    },
+    {
+      "userId": 3,
+      "title": "Unbranded Granite Table",
+      "id": 21
+    }
+  ],
   "photos": []
 }
