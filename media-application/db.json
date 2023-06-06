@@ -1,10 +1,6 @@
 {
   "users": [
     {
-      "name": "Jeffery Hahn",
-      "id": 2
-    },
-    {
       "name": "Dexter Crona DDS",
       "id": 3
     }
@@ -31,39 +27,9 @@
       "id": 21
     },
     {
-      "userId": 2,
-      "title": "Awesome Soft Cheese",
-      "id": 27
-    },
-    {
-      "userId": 2,
-      "title": "Unbranded Plastic Bacon",
-      "id": 28
-    },
-    {
-      "userId": 2,
-      "title": "Generic Metal Bike",
-      "id": 29
-    },
-    {
-      "userId": 2,
-      "title": "Generic Cotton Hat",
-      "id": 30
-    },
-    {
       "userId": 3,
       "title": "Intelligent Cotton Cheese",
       "id": 31
-    },
-    {
-      "userId": 2,
-      "title": "Generic Bronze Shirt",
-      "id": 32
-    },
-    {
-      "userId": 2,
-      "title": "Handmade Cotton Bacon",
-      "id": 33
     }
   ],
   "photos": []
