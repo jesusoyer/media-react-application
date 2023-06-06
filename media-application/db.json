@@ -11,36 +11,6 @@
   ],
   "albums": [
     {
-      "id": 10,
-      "title": "Hiking Trip",
-      "userId": 2
-    },
-    {
-      "userId": 2,
-      "title": "Awesome Soft Cheese",
-      "id": 11
-    },
-    {
-      "userId": 2,
-      "title": "Intelligent Soft Pizza",
-      "id": 12
-    },
-    {
-      "userId": 2,
-      "title": "Modern Wooden Sausages",
-      "id": 13
-    },
-    {
-      "userId": 2,
-      "title": "Intelligent Rubber Pizza",
-      "id": 14
-    },
-    {
-      "userId": 2,
-      "title": "Licensed Cotton Chair",
-      "id": 15
-    },
-    {
       "userId": 3,
       "title": "Oriental Plastic Salad",
       "id": 16
@@ -51,16 +21,6 @@
       "id": 17
     },
     {
-      "userId": 2,
-      "title": "Practical Bronze Tuna",
-      "id": 18
-    },
-    {
-      "userId": 2,
-      "title": "Sleek Soft Bacon",
-      "id": 19
-    },
-    {
       "userId": 3,
       "title": "Ergonomic Frozen Soap",
       "id": 20
@@ -69,6 +29,41 @@
       "userId": 3,
       "title": "Unbranded Granite Table",
       "id": 21
+    },
+    {
+      "userId": 2,
+      "title": "Awesome Soft Cheese",
+      "id": 27
+    },
+    {
+      "userId": 2,
+      "title": "Unbranded Plastic Bacon",
+      "id": 28
+    },
+    {
+      "userId": 2,
+      "title": "Generic Metal Bike",
+      "id": 29
+    },
+    {
+      "userId": 2,
+      "title": "Generic Cotton Hat",
+      "id": 30
+    },
+    {
+      "userId": 3,
+      "title": "Intelligent Cotton Cheese",
+      "id": 31
+    },
+    {
+      "userId": 2,
+      "title": "Generic Bronze Shirt",
+      "id": 32
+    },
+    {
+      "userId": 2,
+      "title": "Handmade Cotton Bacon",
+      "id": 33
     }
   ],
   "photos": []
